@@ -1,0 +1,10 @@
+build/
+cmake-build-*/
+*.exe
+*.o
+*.obj
+CMakeFiles/
+CMakeCache.txt
+*.db
+*.sqlite
+.vscode/
